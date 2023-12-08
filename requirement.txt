@@ -1,0 +1,10 @@
+requests
+winshell
+pypiwin32
+opencv-python
+filetype
+websocket-client
+pycryptodome
+pillow
+bs4
+opencv-contrib-python
