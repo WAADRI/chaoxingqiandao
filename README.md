@@ -8,6 +8,6 @@
 pip3 install -r requirements.txt
 ```
 
-动手能力差的同学可访问[https://www.waadri.top/](https://www.waadri.top/)使用学习通在线自动签到系统进行自动签到，我们将在力所能及的范围内持续更新在线自动签到系统。
+动手能力差的同学可访问[https://cx.waadri.top/](https://cx.waadri.top/)使用学习通在线自动签到系统进行自动签到，我们将在力所能及的范围内持续更新在线自动签到系统。
 
 程序仅供学习测试，不得用于非法用途。
